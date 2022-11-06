@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754525503635",
+    "project_id": "phrl-8d2b8",
+    "storage_bucket": "phrl-8d2b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754525503635:android:525b6bac6ea5d17167cd66",
+        "android_client_info": {
+          "package_name": "com.example.phrl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754525503635-23eff631g5501d15a5ff5h38k70gd9pe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjtrEM9FnLUp-kncl3-4k8Dn3k6fh0vAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754525503635-23eff631g5501d15a5ff5h38k70gd9pe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
