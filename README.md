@@ -1,18 +1,19 @@
-# phrl
+# PHRL - PG Hostel Resort Lounge
 
-Pg Site
+<h4>Introduction</h4>
+ Pg refers to when a person stays in someone else’s house/property and pay rent for the accommodation and facilities available with it, such as electricity, water, housekeeping, and food at times. With the boom of business outsourcing more and more opportunities to metro cities, leaving behind their deep-rooted families in small towns. The “PHRL” project aims to provide opportunities to rural part in India as well with plans to expand globally. The software has been developed using the Android Studio.
 
-## Getting Started
+<h4>Problem in the Market</h4>
+Ensuring a safe and secure environment, Indian parents are known for their extra possessiveness for their children. If the child is girl, their anxieties reach another level. They always want to make sure their child is safe and secure. We provide an atmosphere which gives satisfaction to the parents as we are well equipped with CCTV cameras, watchmen and security guards for big houses. PGs even make sure that they follow proper guidelines to ensure safety. In emergency, the PG also has access to doctors and first aid kits. 
 
-This project is a starting point for a Flutter application.
+<h4>My role</h4> 
+• SOFTWARE DEVELOPER
+• IDEA EXECUTION PLANNER
+• PITCHER
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# PHRL
-# PHRL
+<h4>Technology Used</h4>
+• FLUTTER AS FRAMEWORK
+• DART LANGUAGE
+• FIREBASE BACKEND
+• INTERNET
+• POWERPOINT
